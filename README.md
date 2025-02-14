@@ -30,7 +30,7 @@ This project is an **IoT-based Industrial Safety System** that monitors various 
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Industrial-Safety-System.git
+   git clone https://github.com/kaustubh812/Industrial-Safety-System.git
    ```
 2. Open the Arduino IDE and install the required libraries.
 3. Connect the hardware components as per the circuit diagram.
